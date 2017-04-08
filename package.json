@@ -1,0 +1,27 @@
+{
+  "name": "redis",
+  "version": "1.0.0",
+  "description": "its use for caching the data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YASHVEER321/Redis.git"
+  },
+  "keywords": [
+    "redis"
+  ],
+  "author": "Yash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YASHVEER321/Redis/issues"
+  },
+  "homepage": "https://github.com/YASHVEER321/Redis#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  }
+}
